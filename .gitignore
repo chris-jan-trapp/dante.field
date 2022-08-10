@@ -1,0 +1,10 @@
+node_modules
+.ipynb_checkpoints
+
+*.mmd
+*.svg
+*.png
+*.pyc
+*.pkl
+*.json
+tst.txt
